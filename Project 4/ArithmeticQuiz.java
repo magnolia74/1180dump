@@ -1,8 +1,4 @@
-/*@author Hunter Seitz
- * CS1180 Summer 2020
- * Project4
- * 
- */
+
 package arithmeticquiz;
 
 import seitz_project4.ArithmeticQuizSrc;
