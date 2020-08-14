@@ -1,5 +1,5 @@
 
-package seitz_project2;
+package project2;
 
 import java.util.Scanner;
 
