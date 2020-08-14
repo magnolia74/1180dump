@@ -1,8 +1,4 @@
-/*
- * @author Hunter Seitz 
- * CS1180 Summer 2020 
- * Project2
- */
+
 package seitz_project2;
 
 import java.util.Scanner;
