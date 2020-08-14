@@ -1,0 +1,18 @@
+name                Lab Avg             Project Avg         Quiz Avg            Exam Avg            Course Avg
+
+Puckett, Karen       99.0                82.7                92.0                90.5                90.0                
+Little, Charles      98.0                78.0                84.8                67.0                76.2                
+Perfect, Student     100.0               100.0               100.0               100.0               100.0               
+Hill, Gretchen       99.0                94.0                84.0                94.2                93.9                
+Song, Patrick        92.0                85.3                92.0                73.5                81.1                
+Wagner, Malcolm      94.0                78.0                88.0                71.5                78.2                
+Woodard, Beth        98.0                87.3                92.0                67.5                79.5                
+Desai, Julia         94.0                83.3                89.2                91.2                89.5                
+Wallace, Jerome      98.0                78.7                92.0                79.5                83.3                
+Griffin, Jean        96.0                78.7                84.0                77.0                81.0                
+Dougherty, Kristine  74.0                84.7                84.0                91.0                86.2                
+Vick, Franklin       94.0                90.0                72.0                89.8                88.7                
+Solomon, Marian      98.0                92.0                100.0               98.0                96.7                
+Johnston, Jerome     94.0                75.3                56.0                80.0                78.5                
+Walton, Beth         98.0                90.0                84.0                88.2                89.7                
+Hall, Erica          79.0                88.7                86.0                95.5                90.4                

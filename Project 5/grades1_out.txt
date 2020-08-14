@@ -1,0 +1,5 @@
+name                Lab Avg             Project Avg         Quiz Avg            Exam Avg            Course Avg
+
+James Patterson      88.0                95.7                84.0                88.5                89.8                
+Perfect Student      100.0               100.0               100.0               100.0               100.0               
+Virginia Rodriguez   94.0                91.3                80.0                88.0                88.9                
