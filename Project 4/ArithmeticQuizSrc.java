@@ -1,5 +1,5 @@
 
-package seitz_project4;
+package project4;
 
 import java.io.PrintWriter;
 import java.util.Scanner;
