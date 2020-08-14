@@ -1,7 +1,7 @@
 
 package arithmeticquiz;
 
-import seitz_project4.ArithmeticQuizSrc;
+import project4.ArithmeticQuizSrc;
 import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileWriter;
