@@ -1,10 +1,5 @@
-/*@author Hunter Seitz
- * CS1180 Summer 2020
- * Project5
- * 
- */
 
-package seitz_project5;
+package project5;
 
 import java.io.BufferedReader;
 import java.io.File;
